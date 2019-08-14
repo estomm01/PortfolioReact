@@ -60,8 +60,7 @@ export default class About extends React.Component {
               }}
             />
             <p className={"mytext pt-3 " + this.props.fadeIn}>
-              I love to transform ideas into reality using code. I
-							am passionate about using React and animations
+              I am passionate about using React and animations
 							to create awesome user experiences.
 						</p>
           </div>
@@ -87,12 +86,12 @@ export default class About extends React.Component {
                 style={{ width: 80 + "%" }}
                 aria-valuemin="0"
                 aria-valuemax="100">
-                CSS3
+                CSS
 							</div>
             </div>
             <div className="progress mb-3">
               <div
-                className="progress-bar fill-90-bar"
+                className="progress-bar fill-70-bar"
                 role="progressbar"
                 style={{ width: 90 + "%" }}
                 aria-valuemin="0"
@@ -102,12 +101,12 @@ export default class About extends React.Component {
             </div>
             <div className="progress mb-3">
               <div
-                className="progress-bar fill-60-bar"
+                className="progress-bar fill-70-bar"
                 role="progressbar"
                 style={{ width: 60 + "%" }}
                 aria-valuemin="0"
                 aria-valuemax="100">
-                PHP
+                Express
 							</div>
             </div>
             <div className="progress mb-3">
@@ -122,7 +121,7 @@ export default class About extends React.Component {
             </div>
             <div className="progress mb-3">
               <div
-                className="progress-bar fill-60-bar"
+                className="progress-bar fill-70-bar"
                 role="progressbar"
                 style={{ width: 60 + "%" }}
                 aria-valuemin="0"
@@ -152,7 +151,7 @@ export default class About extends React.Component {
             </div>
             <div className="progress mb-3">
               <div
-                className="progress-bar fill-60-bar"
+                className="progress-bar fill-70-bar"
                 role="progressbar"
                 style={{ width: 60 + "%" }}
                 aria-valuemin="0"
