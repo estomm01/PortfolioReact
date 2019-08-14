@@ -12,20 +12,14 @@ class Footer extends React.Component {
 					<div className="row">
 						<div className="col-12 col-sm-12 col-md-8 mx-auto">
 							<a
-								href="https://codepen.io/kodi24fever"
-								target="_blank"
-								rel="noopener noreferrer">
-								<img className="img-fluid" src={codepen} alt=""/>
-							</a>
-							<a
 								className="px-3"
-								href="https://github.com/kodi24fever"
+								href="https://github.com/estomm01"
 								target="_blank"
 								rel="noopener noreferrer">
 								<img src={github} alt=""/>
 							</a>
 							<a
-								href="https://www.linkedin.com/in/frankizquierdo"
+								href="https://www.linkedin.com/in/markus-maasikas-a6654630/"
 								target="_blank"
 								rel="noopener noreferrer">
 								<img src={linkedin} alt=""/>
