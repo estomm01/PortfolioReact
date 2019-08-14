@@ -28,7 +28,7 @@ export default class Projects extends React.Component {
 									</div>
 									<div>
 										<button
-											id="vmarine-button"
+											id="burger-button"
 											className="project-button"
 											onClick={() => {
 												var modalBG = document.getElementById(
