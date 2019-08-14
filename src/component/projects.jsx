@@ -215,11 +215,11 @@ export default class Projects extends React.Component {
 							<div className="modal-description">
 								<ul>
 									<li>
-										A to-do list to keep track of goals.
+										A full MERN application that helps track your habits..
 									</li>
 									<li>
-										Developed with HTML5, CSS3, Bootstrap,
-										Webpack, and ReactJS.
+										Developed with HTML5, Animate.css, Bootstrap,
+										Express, MongoDB, and ReactJS.
 									</li>
 								</ul>
 							</div>
