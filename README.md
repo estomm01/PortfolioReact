@@ -26,6 +26,23 @@ Personal portfolio page (https://portfolioreactmm.herokuapp.com/) built in React
 
 9. I wanted to create a eye catching animated background at the top of the page, so I used some help from [codepen.io](https://codepen.io/saransh/pen/BKJun) and adapted the code to my website.
 
+The following packages are dependencies to the project.
+
+* [@material-ui/core](https://www.npmjs.com/package/@material-ui/core)
+  * This is a third party design library of React components that implement Google's Material Design.
+* [prop-types](https://www.npmjs.com/package/prop-types)
+  * This is used to document and validate the different properties passed to a component.
+* [react](https://www.npmjs.com/package/react)
+  * This package contains the functionality necessary to define React components.
+* [react-dom](https://www.npmjs.com/package/react-dom)
+  * This serves as the entry point of the DOM-related rendering paths.
+* [react-router-dom](https://www.npmjs.com/package/react-router-dom)
+  * This is a third party routing library use to connect and link different components across the app.
+* [react-scripts](https://www.npmjs.com/package/react-scripts)
+  * This includes scripts and configuration used by Create React App.
+* [react-bootstrap](https://www.npmjs.com/package/react-bootstrap)
+* [node-sass] (https://www.npmjs.com/package/node-sass)
+
 ## Challenges 
 
 1. Implementing Wow.js + Animate.css was difficult at the beginning, but looks awesome
