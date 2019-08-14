@@ -55,8 +55,8 @@ export default class About extends React.Component {
               alt=""
               style={{
                 borderRadius: 50 + "%",
-                height: 250 + "px",
-                width: 250 + "px"
+                height: 225 + "px",
+                width: 175 + "px"
               }}
             />
             <p className={"mytext pt-3 " + this.props.fadeIn}>
