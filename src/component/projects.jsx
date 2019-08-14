@@ -34,11 +34,11 @@ export default class Projects extends React.Component {
 												var modalBG = document.getElementById(
 													"gallery-card"
 												);
-												var marineModal = document.getElementById(
-													"vmarine"
+												var burgerModal = document.getElementById(
+													"burger"
 												);
 												modalBG.style.display = "block";
-												marineModal.style.display =
+												burgerModal.style.display =
 													"block";
 											}}>
 											Learn More
@@ -57,17 +57,17 @@ export default class Projects extends React.Component {
 									</div>
 									<div>
 										<button
-											id="agua-button"
+											id="crystal-button"
 											className="project-button"
 											onClick={() => {
 												var modalBG = document.getElementById(
 													"gallery-card"
 												);
-												var aguaModal = document.getElementById(
-													"agualuz"
+												var crystalModal = document.getElementById(
+													"crystal"
 												);
 												modalBG.style.display = "block";
-												aguaModal.style.display =
+												crystalModal.style.display =
 													"block";
 											}}>
 											Learn More
@@ -86,17 +86,17 @@ export default class Projects extends React.Component {
 									</div>
 									<div>
 										<button
-											id="todo-button"
+											id="habits-button"
 											className="project-button"
 											onClick={() => {
 												var modalBG = document.getElementById(
 													"gallery-card"
 												);
-												var todoModal = document.getElementById(
-													"todolist"
+												var habitsModal = document.getElementById(
+													"habits"
 												);
 												modalBG.style.display = "block";
-												todoModal.style.display =
+												habitsModal.style.display =
 													"block";
 											}}>
 											Learn More
