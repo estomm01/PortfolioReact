@@ -1,6 +1,6 @@
 import React from "react";
 import burger from "../img/burger.png";
-import crystal from "../img/crystal.png";
+import crystal from "../img/crystal3.png";
 import Habits from "../img/Habits66.png";
 import PropTypes from "prop-types";
 
@@ -24,7 +24,7 @@ export default class Projects extends React.Component {
 								}>
 								<div className="overlay">
 									<div className="text">
-										<h2>VMarine</h2>
+										<h2>MVC Burger</h2>
 									</div>
 									<div>
 										<button
@@ -53,7 +53,7 @@ export default class Projects extends React.Component {
 								}>
 								<div className="overlay">
 									<div className="text">
-										<h2>Aguas De Luz</h2>
+										<h2>Crystal Game</h2>
 									</div>
 									<div>
 										<button
@@ -82,7 +82,7 @@ export default class Projects extends React.Component {
 								}>
 								<div className="overlay">
 									<div className="text">
-										<h2>To Do List</h2>
+										<h2>Habits 66</h2>
 									</div>
 									<div>
 										<button
