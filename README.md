@@ -12,11 +12,11 @@ Personal portfolio page (https://portfolioreactmm.herokuapp.com/) built in React
 
 2. Migrated my [VanillaJS Portfolio Version](https://github.com/kodi24fever/vanillajs-portfolio) and migrated it into a new React Application.
 
-3. The first approach was to use libraries to create animations because creating my own was time consuming. For that reason, I decided to use [Wow.js](https://wowjs.uk/) and [Animate.css](https://daneden.github.io/animate.css/) libraries.
+3.I decided to use [Wow.js](https://wowjs.uk/) and [Animate.css](https://daneden.github.io/animate.css/) libraries.
 
-4. Used React Props to manage components references in the application and share components details to create [SmoothScroll](https://css-tricks.com/snippets/jquery/smooth-scrolling/) usign my own code.
+4. Used React Props to manage components references in the application and share components details to create [SmoothScroll](https://css-tricks.com/snippets/jquery/smooth-scrolling/).
 
-5. Most of the page uses Bootstrap, except for the modal gallery that has my own CSS3 flex-box code.
+5. Most of the page uses Bootstrap, except for the modal gallery.
 
 6. Created different modals for the gallery project and using [React Event Handlers](https://reactjs.org/docs/handling-events.html) I could show each project modal.
 
@@ -24,15 +24,15 @@ Personal portfolio page (https://portfolioreactmm.herokuapp.com/) built in React
 
 8. I used images from [unsplash](https://unsplash.com) which are free to use and icons from [flaticon](https://www.flaticon.com/) which are also free to use.
 
-9. I wanted to create an amazing animated background at the top of the page, so I used some help from [codepen.io](https://codepen.io/saransh/pen/BKJun) and adapted the code to my website.
+9. I wanted to create a eye catching animated background at the top of the page, so I used some help from [codepen.io](https://codepen.io/saransh/pen/BKJun) and adapted the code to my website.
 
-## Challenges that took me some time to solve
+## Challenges 
 
-1. Implementing Wow.js + Animate.css was difficult at the beginning, but worth it. It takes time to make it work with your app, yet it takes less time than building your won libraries.
+1. Implementing Wow.js + Animate.css was difficult at the beginning, but looks awesome
 
-2. 2.Sharing DOM component details such as height, offsetTops, etc, between other components was a bit difficult because [React Refs](https://reactjs.org/docs/refs-and-the-dom.html) had to match parent containers' ids. That took me the long time to figure out.
+2. 2.Sharing DOM component details such as height, offsetTops, etc, between other components was a bit difficult because [React Refs](https://reactjs.org/docs/refs-and-the-dom.html) had to match parent containers' ids. 
 
-3. After using Bootstrap for a while I had to re learn some CSS3 tricks like flex-box and how to use @keyframes + animation.
+3. After using Bootstrap I am learning some CSS3 tricks like flex-box and how to use @keyframes + animation.
 
 
 https://portfolioreactmm.herokuapp.com/
